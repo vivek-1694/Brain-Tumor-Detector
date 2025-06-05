@@ -17,8 +17,6 @@
 - The model was trained on a dataset of MRI brain scan images(from kaggle) labeled as:
   - Tumor
   - No Tumor
-- The dataset is not included in this repository due to its large size.
-
 
 ## How to Use
 
