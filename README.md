@@ -43,4 +43,4 @@ with open('label_encoder.pkl', 'rb') as f:
 Open the .ipynb file to:
 Load your dataset
 Train the model
-Save the .keras and .pkl files
+Save the .keras and .pkl files 
