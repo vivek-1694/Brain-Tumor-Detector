@@ -1,0 +1,6 @@
+##install these packages
+
+tensorflow
+numpy
+scikit-learn
+matplotlib
